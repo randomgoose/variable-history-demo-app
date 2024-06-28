@@ -173,7 +173,7 @@
   ---bg-default-pressed: var(---grey-100);
   ---bg-default-tertiary: var(---grey-300);
   ---bg-brand-hover: var(---pale_green-600);
-  ---bg-brand-secondary: var(---pale_green-700);
+  ---bg-brand-secondary: var(---pale_blue-700);
   ---bg-success-default: var(---green-500);
   ---bg-success-pressed: var(---green-600);
   ---bg-success-tertiary: var(---green-200);
@@ -223,8 +223,8 @@
   ---text-danger-ondanger-tertiary: var(---white-400);
   ---text-disabled-ondisabled: var(---white-1000);
   ---bg-default-hover: var(---grey-100);
-  ---bg-brand-default: var(---pale_green-500);
-  ---bg-brand-tertiary: var(---pale_green-100);
+  ---bg-brand-default: var(---pale_blue-500);
+  ---bg-brand-tertiary: var(---pale_blue-100);
   ---bg-success-secondary: var(---green-700);
   ---bg-warning-pressed: var(---yellow-600);
   ---bg-danger-hover: var(---red-600);
