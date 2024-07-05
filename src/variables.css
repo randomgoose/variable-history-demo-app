@@ -169,7 +169,7 @@
   ---pale_yellow-800: rgba(92, 65, 0, 100%);
   ---pale_yellow-900: rgba(58, 42, 16, 100%);
   ---pale_yellow-1000: rgba(33, 26, 18, 100%);
-  ---bg-default-default: var(---white-1000);
+  ---bg-default-default: var(---grey-100);
   ---bg-default-pressed: var(---grey-100);
   ---bg-default-tertiary: var(---grey-300);
   ---bg-brand-hover: var(---pale_green-600);
@@ -224,7 +224,7 @@
   ---text-disabled-ondisabled: var(---white-1000);
   ---bg-default-hover: var(---grey-100);
   ---bg-brand-default: var(---pale_green-500);
-  ---bg-brand-tertiary: var(---pale_green-100);
+  ---bg-brand-tertiary: var(---red-500);
   ---bg-success-secondary: var(---green-700);
   ---bg-warning-pressed: var(---yellow-600);
   ---bg-danger-hover: var(---red-600);
@@ -249,7 +249,7 @@
   ---text-danger-default: var(---red-600);
   ---text-danger-tertiary: var(---text-danger-default);
   ---text-disabled-default: var(---black-400);
-  ---bg-default-secondary: var(---grey-100);
+  ---bg-default-secondary: var(---grey-200);
   ---bg-success-hover: var(---green-600);
   ---bg-warning-tertiary: var(---yellow-200);
   ---border-default-default: var(---grey-200);
@@ -303,7 +303,6 @@
   ---bg-buy-default: rgba(255, 255, 255, 100%);
   ---bg-buy-secondary: rgba(255, 255, 255, 100%);
   ---bg-buy-tertiary: rgba(255, 255, 255, 100%);
-  --new: rgba(255, 255, 255, 100%);
 }
 
 [data-theme="Default Dark"] {
@@ -477,7 +476,7 @@
   ---pale_yellow-800: rgba(92, 65, 0, 100%);
   ---pale_yellow-900: rgba(58, 42, 16, 100%);
   ---pale_yellow-1000: rgba(33, 26, 18, 100%);
-  ---bg-default-default: var(---grey-1000);
+  ---bg-default-default: var(---grey-900);
   ---bg-default-pressed: var(---grey-700);
   ---bg-default-tertiary: var(---grey-600);
   ---bg-brand-hover: var(---pale_green-600);
@@ -611,7 +610,6 @@
   ---bg-buy-default: rgba(255, 255, 255, 100%);
   ---bg-buy-secondary: rgba(255, 255, 255, 100%);
   ---bg-buy-tertiary: rgba(255, 255, 255, 100%);
-  --new: rgba(255, 255, 255, 100%);
 }
 
 [data-theme="Midnight Blue Light"] {
@@ -919,7 +917,6 @@
   ---bg-buy-default: rgba(255, 255, 255, 100%);
   ---bg-buy-secondary: rgba(255, 255, 255, 100%);
   ---bg-buy-tertiary: rgba(255, 255, 255, 100%);
-  --new: rgba(255, 255, 255, 100%);
 }
 
 [data-theme="Midnight Blue Dark"] {
@@ -1227,7 +1224,6 @@
   ---bg-buy-default: rgba(255, 255, 255, 100%);
   ---bg-buy-secondary: rgba(255, 255, 255, 100%);
   ---bg-buy-tertiary: rgba(255, 255, 255, 100%);
-  --new: rgba(255, 255, 255, 100%);
 }
 
 [data-theme="Whimsical Purple Light"] {
@@ -1535,7 +1531,6 @@
   ---bg-buy-default: rgba(255, 255, 255, 100%);
   ---bg-buy-secondary: rgba(255, 255, 255, 100%);
   ---bg-buy-tertiary: rgba(255, 255, 255, 100%);
-  --new: rgba(255, 255, 255, 100%);
 }
 
 [data-theme="Whimsical Purple Dark"] {
@@ -1843,7 +1838,10 @@
   ---bg-buy-default: rgba(255, 255, 255, 100%);
   ---bg-buy-secondary: rgba(255, 255, 255, 100%);
   ---bg-buy-tertiary: rgba(255, 255, 255, 100%);
-  --new: rgba(255, 255, 255, 100%);
+}
+
+[data-theme="Mode 1"] {
+
 }
 
 [data-theme="Mode 1"] {
