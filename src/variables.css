@@ -303,7 +303,7 @@
   ---bg-buy-default: rgba(255, 255, 255, 100%);
   ---bg-buy-secondary: rgba(255, 255, 255, 100%);
   ---bg-buy-tertiary: rgba(255, 255, 255, 100%);
-  --new: rgba(255, 255, 255, 100%);
+  --new: rgba(167, 154, 154, 100%);
 }
 
 [data-theme="Default Dark"] {
