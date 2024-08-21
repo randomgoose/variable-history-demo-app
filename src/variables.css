@@ -1,5 +1,17 @@
-[data-theme="Mode 1"] {
-  --bg-default: rgba(255, 255, 255, 100%);
-  --bg-secondary: rgba(223, 223, 223, 100%);
-  --bg-tertiary: rgba(172, 172, 172, 100%);
+[data-theme="Light"] {
+  --bg-success-tertiary: rgba(207, 247, 211, 100%);
+  --bg-success: rgba(20, 174, 92, 100%);
+  --bg-success-secondary: rgba(0, 128, 67, 100%);
+  --bg-danger: rgba(242, 72, 34, 100%);
+  --bg-danger-secondary: rgba(189, 41, 22, 100%);
+  --bg-danger-tertiary: rgba(255, 226, 224, 100%);
+  --border: rgba(245, 214, 214, 100%);
+  --text: rgba(0, 0, 0, 90%);
+  --text-secondary: rgba(0, 0, 0, 50%);
+  --bg-secondary: rgba(245, 245, 245, 100%);
+  --border-strong: rgba(44, 44, 44, 100%);
+  --bg: rgba(142, 113, 113, 100%);
+  --bg-brand: rgba(13, 153, 255, 100%);
+  --text-success: rgba(0, 153, 81, 100%);
+  --bg-tertiary: rgba(230, 230, 230, 100%);
 }
