@@ -1,5 +1,35 @@
-[data-theme="Mode 1"] {
-  --bg-default: rgba(255, 255, 255, 100%);
-  --bg-secondary: rgba(223, 223, 223, 100%);
-  --bg-tertiary: rgba(172, 172, 172, 100%);
+[data-theme="Light"] {
+  --bg-success-tertiary: #cff7d3;
+  --bg-success: #a1e3c0;
+  --bg-success-secondary: #008043;
+  --bg-danger: #f24822;
+  --bg-danger-secondary: #bd2916;
+  --bg-danger-tertiary: #ffe2e0;
+  --border: #e6e6e6;
+  --text: #000000e5;
+  --text-secondary: #00000080;
+  --bg-secondary: #f5f5f5;
+  --border-strong: #2c2c2c;
+  --bg: #ffffff;
+  --bg-brand: #0d99ff;
+  --text-success: #009951;
+  --bg-tertiary: #e6e6e6;
+}
+
+[data-theme="Dark"] {
+  --bg-success-tertiary: #cff7d3;
+  --bg-success: #14ae5c;
+  --bg-success-secondary: #008043;
+  --bg-danger: #f24822;
+  --bg-danger-secondary: #bd2916;
+  --bg-danger-tertiary: #ffe2e0;
+  --border: #e6e6e6;
+  --text: #000000e5;
+  --text-secondary: #00000080;
+  --bg-secondary: #f5f5f5;
+  --border-strong: #2c2c2c;
+  --bg: #ffffff;
+  --bg-brand: #0c8ce9;
+  --text-success: #009951;
+  --bg-tertiary: #e6e6e6;
 }
